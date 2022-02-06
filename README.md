@@ -1,6 +1,8 @@
-# Eulerproblem4
+# Project Euler Problem 4
+I used elixir to solve the Project Euler problem #4 
 
-**TODO: Add description**
+https://projecteuler.net/about
+
 
 ## Installation
 
